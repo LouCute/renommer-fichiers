@@ -11,5 +11,4 @@ Launch:
 - https://github.com/LouCute/renommer-fichiers/blob/f518344cc4bebd8eb9d8e43092aed5dfaf36d2bf/renommer-les-fichiers-plus-les-fichiers-dans-les-sous-dossiers.py
 
 # English version:
-🇬🇧 
 - https://github.com/LouCute/file-rename
